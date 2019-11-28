@@ -1,0 +1,9 @@
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2Parcial1.Properties.Resources.resources
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2Parcial1.csproj.GenerateResource.cache
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\bin\Debug\TPV2Parcial1.exe.config
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\bin\Debug\TPV2Parcial1.exe
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\bin\Debug\TPV2Parcial1.pdb
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2Parcial1.exe
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2Parcial1.pdb
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2Parcial1.csprojAssemblyReference.cache
+C:\Users\rock-\source\repos\TPV2Parcial1\TPV2Parcial1\obj\Debug\TPV2doPArcial.Form1.resources
