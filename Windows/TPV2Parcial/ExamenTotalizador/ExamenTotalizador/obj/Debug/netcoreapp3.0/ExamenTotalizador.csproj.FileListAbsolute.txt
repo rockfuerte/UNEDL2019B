@@ -1,0 +1,11 @@
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.exe
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.deps.json
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.runtimeconfig.json
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.runtimeconfig.dev.json
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.dll
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\bin\Debug\netcoreapp3.0\ExamenTotalizador.pdb
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\obj\Debug\netcoreapp3.0\ExamenTotalizador.csprojAssemblyReference.cache
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\obj\Debug\netcoreapp3.0\ExamenTotalizador.AssemblyInfoInputs.cache
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\obj\Debug\netcoreapp3.0\ExamenTotalizador.AssemblyInfo.cs
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\obj\Debug\netcoreapp3.0\ExamenTotalizador.dll
+C:\Users\rock-\source\repos\ExamenTotalizador\ExamenTotalizador\obj\Debug\netcoreapp3.0\ExamenTotalizador.pdb
