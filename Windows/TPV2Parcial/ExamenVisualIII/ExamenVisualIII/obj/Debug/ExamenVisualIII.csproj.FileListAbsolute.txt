@@ -1,0 +1,9 @@
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\bin\Debug\ExamenVisualIII.exe.config
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\bin\Debug\ExamenVisualIII.exe
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\bin\Debug\ExamenVisualIII.pdb
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.csprojAssemblyReference.cache
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.Form1.resources
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.Properties.Resources.resources
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.csproj.GenerateResource.cache
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.exe
+C:\Users\rock-\source\repos\ExamenVisualIII\ExamenVisualIII\obj\Debug\ExamenVisualIII.pdb
